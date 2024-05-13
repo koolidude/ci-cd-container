@@ -1,0 +1,5 @@
+ecs_cluster_name = "norshukri-ecs-cluster-dev"
+ecs_service_name = "norshukri-ecs-service-dev"
+ecs_task_defn_family = "norshukri-ecs-task-def-dev"
+ecs_container_name = "norshukri-container-dev"
+ecs_port_name = "norshukri-3000-tcp-dev"

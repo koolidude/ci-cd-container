@@ -1,0 +1,5 @@
+ecs_cluster_name = "norshukri-ecs-cluster-uat"
+ecs_service_name = "norshukri-ecs-service-uat"
+ecs_task_defn_family = "norshukri-ecs-task-def-uat"
+ecs_container_name = "norshukri-container-uat"
+ecs_port_name = "norshukri-3000-tcp-uat"
